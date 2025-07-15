@@ -2,20 +2,6 @@
 
 Interactive educational Android application for exploring the solar system using 3D models, gesture-based navigation, augmented reality (AR), and context-aware features.
 
-## Table of Contents
-
-* [Demo](#demo)
-* [Features](#features)
-* [Getting Started](#getting-started)
-
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [License](#license)
-
 ## Demo
 
 A video demonstration of the application can be viewed here:
@@ -58,26 +44,3 @@ A video demonstration of the application can be viewed here:
 3. In Unity Preferences, set the Android SDK and NDK paths.
 4. Build the APK (File > Build Settings > Android > Build and Run) on your device.
 
-## Usage
-
-1. Launch the app on your Android device.
-2. Register or login using face recognition.
-3. Navigate through the main menu:
-
-   * **Start**: Use swipe gestures to move between planets and pinch to zoom.
-   * **Use TUIO**: Point your camera at a printed marker to display the corresponding planet in AR.
-   * **Help**: Follow the on-screen guide for controls and tips.
-4. Complete the built-in quiz after exploration to test your retention.
-
-## Project Structure
-
-```
-Solar-System-Viusalization/
-├── Assets/                  # Unity assets (scripts, scenes, prefabs, materials)
-├── ProjectSettings/         # Unity project configuration files
-├── Documentation/           # Project documentation and reports
-│   ├── Scenario_HCI.pdf     # Context scenario and user flow
-│   └── Documentation_of_Experiment.pdf  # Evaluation experiment and results
-├── README.md                # Project overview and instructions
-└── ...                      # Other configuration files
-```
