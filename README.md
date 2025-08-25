@@ -6,7 +6,7 @@ Interactive educational Android application for exploring the solar system using
 
 A video demonstration of the application can be viewed here:
 
-[Watch the Demo](https://drive.google.com/file/d/1rkgSB6ui5t96r5gRvZa4WFi7a_bQZf_a/view?usp=sharing)
+[Watch the Demo]([https://drive.google.com/file/d/1rkgSB6ui5t96r5gRvZa4WFi7a_bQZf_a/view?usp=sharing](https://www.youtube.com/watch?v=W3mIsRto_B0))
 
 ## Features
 
